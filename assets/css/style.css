@@ -1,0 +1,24 @@
+.container {
+    margin: 0 auto;
+}
+
+#jumbo {
+    margin: 0 90px 30px 15px;
+}
+
+.card {
+    width: 1000px;
+}
+
+.form-modify {
+    padding: 20px;
+}
+
+.inputs {
+    margin-bottom: 10px;
+}
+
+#btm-crd {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
